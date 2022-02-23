@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the late great fight at sea y the English fleet, and the Hollanders: between Dover and Calis. On Wednesday, the 19. of this instant May 1652. From a very sure hand.</title>
+            <author>I. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45393</idno>
+            <idno type="STC">Wing H51</idno>
+            <idno type="STC">ESTC R224171</idno>
+            <idno type="EEBO-CITATION">99834544</idno>
+            <idno type="PROQUEST">99834544</idno>
+            <idno type="VID">39045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1811:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the late great fight at sea y the English fleet, and the Hollanders: between Dover and Calis. On Wednesday, the 19. of this instant May 1652. From a very sure hand.</title>
+                  <author>I. H.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler,</publisher>
+                  <pubPlace>[Leith] Printed at Leith :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: "I. H.".</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Naval battles --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39045:1"/>
+            <!-- PDF PAGE 40 -->
+            <p>A TRUE RELATION Of the late GREAT FIGHT AT SEA, BY THE ENGLISH FLEET, AND THE HOLLANDERS: Between DOVER and CALIS.</p>
+            <p>On <hi>Wedneſday,</hi> the 19. of this inſtant <hi>May</hi> 1652.</p>
+            <p>From a very ſure Hand.</p>
+            <p>Printed at <hi>Leith</hi> by <hi>Evan Tyler.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:39045:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb n="3" facs="tcp:39045:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>A True Relation of the late Great Fight at Sea, by the <hi>Engliſh</hi> Fleet, and the <hi>Hollanders,</hi> between <hi>Dover and</hi> Calis.</head>
+            <head type="sub">
+               <date>On <hi>Wedneſday</hi> the 19. of this inſtant <hi>May,</hi> 1652.</date>
+            </head>
+            <opener>
+               <salute>Loving Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Hollanders</hi> have deceived you, and many others, (but themſelves moſt.) In the height of their ſpirits they came upon our Coaſts, with about Four<g ref="char:EOLhyphen"/>ty Sail: upon <hi>Tueſday</hi> laſt they ſent two of their Frigots into the <hi>Downs,</hi> whilſt the others hovered up and down about the South-end of <hi>Goodwin:</hi> They ſaluted our Vice-Admirall, Major <hi>Bourn.</hi> Our Admi<g ref="char:EOLhyphen"/>rall was then with his Guard about <hi>Dung<g ref="char:EOLhyphen"/>hilneſs;</hi> They were re-ſaluted. The two Captains came a-board, with (as may be conceived) a lye in their mouths: Their
+<pb n="4" facs="tcp:39045:3"/>
+               <!-- PDF PAGE 42 -->
+requeſt was, to come in and water at <hi>Deal,</hi> under pretence they were forced from their Anchors, by foul weather, from their own Road, ſo that they came away unpro<g ref="char:EOLhyphen"/>vided Major <hi>Bourn</hi> asked them, VVhe<g ref="char:EOLhyphen"/>ther they would strike their Flags; for they were then up where they were. They replyed, They had Order to ſtrike to no Nation. Major <hi>Bourn</hi> replyed; Nei<g ref="char:EOLhyphen"/>ther had he any Order to give them leave to come in to water. This was the ſa<g ref="char:EOLhyphen"/>lute; and having given them the enter<g ref="char:EOLhyphen"/>tainment with a Glaſs of VVine, the two <hi>Dutch</hi> Captains departed to the Ships; and at their going out of the <hi>Downs,</hi> gave another fair Salute, which was anſwered with the like Civilitie. So, the <hi>Dutch</hi> Fleets anchored between the Light-houſe and <hi>Dover</hi> Caſtle that night; and next day about one or two of the clock in the after<g ref="char:EOLhyphen"/>noon, (in the mean time there was Intel<g ref="char:EOLhyphen"/>ligence went between Generall <hi>Blake,</hi> and
+<pb n="5" facs="tcp:39045:3"/>
+               <!-- PDF PAGE 42 -->
+Major <hi>Bourn</hi>) and it ſeemed by the event, the Reſolution was, That our two Squa<g ref="char:EOLhyphen"/>drons ſhould meet, ſo ſoon as VVind and Tide would give them leave; for the wind was contrary to Gen. <hi>Blake,</hi> being Nor<g ref="char:EOLhyphen"/>therly, ſo that he was fain to wait the Tide. which was about one or two of the clock: and the wind fitted Major <hi>Bourn.</hi> So ſoon as they weighed their Anchors, and hoiſed ſaile, the <hi>Hollander</hi> did the like, they ly<g ref="char:EOLhyphen"/>ing between our two Squadrons, and ob<g ref="char:EOLhyphen"/>ſerving their motion: At firſt, we by their ſailing, thought they had made home<g ref="char:EOLhyphen"/>ward, without any intention to fight, for they were gone near half Seas over, be<g ref="char:EOLhyphen"/>tween us and <hi>Calis,</hi> and by the way receiv<g ref="char:EOLhyphen"/>ed an addition of Ships, as we could plain<g ref="char:EOLhyphen"/>ly diſcover: But on a ſudden, a VVarning-Piece being ſhot off, they all tackt about, and made for our Coaſts ſomewhat: but for the moſt part, kept themſelves near the middle of the Channell South-ward, as if
+<pb n="6" facs="tcp:39045:4"/>
+               <!-- PDF PAGE 43 -->
+bound that wayes againſt <hi>Dover.</hi> Our two Squadrons being ſomwhat near together, they alſo drew near: And the <hi>Dutch</hi> Ad<g ref="char:EOLhyphen"/>miral, before the reſt of his Fleet, with one Friggot, bore up to our Admirall, with the Flag up: Our Admirall ſhot to have him ſtrike; this he did twice: And then they to their broad ſides, Pell Mell, with as much force as any Sea-Fight hath been managed ſince 88. The Fight began a<g ref="char:EOLhyphen"/>bout ſix in the afternoon, and held till be<g ref="char:EOLhyphen"/>tween nine and ten, the <hi>Dutch</hi> Admiral be<g ref="char:EOLhyphen"/>ing extreamly beaten, ſo that he was fain to lye upon the Lees, and came little in Play after the firſt fierce Encounter. Our men went on with much reſo<g ref="char:EOLhyphen"/>lution, and Performance, as you can imagine men to do. The Lord gave them Courage beyond meaſure: many Voluntiers offered themſelves from <hi>Dover,</hi> and <hi>Deal,</hi> and did very good Service; about fifty men came from <hi>Sand<g ref="char:EOLhyphen"/>witch,</hi>
+               <pb n="7" facs="tcp:39045:4"/>
+               <!-- PDF PAGE 43 -->
+but a litle too late; <hi>I</hi> add this to let you ſee how the ſpirits of the <hi>Engliſh</hi> are raiſ<g ref="char:EOLhyphen"/>ed up againſt the <hi>Dutch,</hi> though the num<g ref="char:EOLhyphen"/>ber of their Ships were double to ours, we having but twenty four, whereof two of them being fire ſhips that did no ſer<g ref="char:EOLhyphen"/>vice, and theirs about fifty; we ſaw at the back of the ſands, which we ſuppoſe might be about 20. Sail, which ſome of <hi>Dover</hi> ſay, came in before the Fight was ended; however it pleaſed the Lord to honour our Nation with this moſt incomparable Vi<g ref="char:EOLhyphen"/>ctory as great as any we have had, if conſi<g ref="char:EOLhyphen"/>dered in itſelf, and in the Conſequences of it: But to be ſhort, we ſunk one of the great<g ref="char:EOLhyphen"/>eſt Ships, took another of Fourtie Guns: I ſaw the Enſigne of it at the ſtern of a Catch, ſent in by Generall <hi>Blake</hi> to the Major of the T<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>n trailing them in the water, under <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Engliſh</hi> Colours: The reſt of the <hi>Hollanders</hi> Fleet being (well) beaten, ſilently in the
+<pb n="8" facs="tcp:39045:5"/>
+               <!-- PDF PAGE 44 -->
+Night, withdrew themſelves (as vvas conceived) to <hi>Callis,</hi> and ſince vve have not ſeen them: Our Fleet (I ſuppoſe) by this time, may be near <hi>Dover</hi>-Road to re<g ref="char:EOLhyphen"/>freſh themſelves, and to take care for their vvounded men: Yet this is a mercy not to be omitted, that there is not a Cap<g ref="char:EOLhyphen"/>tain of the Fleet hurt, nor any Officer of Note ſlain: In our Admirall vvhich ſuſtained the greateſt Brunt in the Fight, there vvere eight ſlain, and tvvelve <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ound<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; what, on how many in other Ships, I know not. This which I have written, I am confident to be very true: VVhat, I was not a Spectator of, I have from the Major of <hi>Dover,</hi> and o<g ref="char:EOLhyphen"/>ther honeſt men of credit,</p>
+            <closer>
+               <salute>Vale.</salute>
+               <dateline>Dover, M<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.<date>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. 1652.</date>
+               </dateline>
+               <signed>Your very loving Friend <hi>I. H.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39045:5"/>
+            <!-- PDF PAGE 44 -->
+         </div>
+      </body>
+   </text>
+</TEI>
